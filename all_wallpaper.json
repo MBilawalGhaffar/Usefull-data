@@ -1,0 +1,68 @@
+{
+  "update_slider": [
+    {
+      "slider_id": 1,
+      "category_id": 1,
+      "slider_category": "Latest Wallpaper",
+      "slider_thumb_link": "link",
+      "slider_wallpaper_id": 1
+    }
+  ],
+  "categories_list": [
+    {
+      "category_id": 1,
+      "category_position": 1,
+      "category_name": "Latest Wallpaper"
+    }
+  ],
+  "categories_thumbs": [
+    {
+      "category_id": 1,
+      "category_name": "Latest Wallpaper",
+      "category_thumbs": [
+        {
+          "thumb_id": 1,
+          "thumb_link": "",
+          "thumb_wallpaper_link": "",
+          "thumb_wallpaper_id": 1
+        }
+      ]
+    }
+  ],
+  "wallpapers": [
+    {
+      "category_id": 1,
+      "category_name": "Latest Wallpaper",
+      "category_wallpapers": [
+        {
+          "wallpaper_id": 1,
+          "wallpaper_name": "",
+          "wallpaper_category": "",
+          "wallpaper_link": "",
+          "wallpaper_thumb_link": "",
+          "wallpaper_is_premium": false,
+          "wallpaper_is_saved": false
+        }
+      ]
+    }
+  ],
+  "error_wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "",
+      "wallpaper_category": "",
+      "wallpaper_link": "",
+      "wallpaper_thumb_link": "",
+      "wallpaper_is_premium": false,
+      "wallpaper_is_saved": false
+    }
+  ],
+  "error_thumbs": [
+    {
+      "thumb_id": 1,
+      "thumb_link": "",
+      "thumb_wallpaper_link": "",
+      "thumb_wallpaper_id": 1
+    }
+  ]
+}
